@@ -6,7 +6,7 @@
 /*   By: namkyu <namkyu@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 16:06:43 by namkyu            #+#    #+#             */
-/*   Updated: 2021/02/25 12:32:08 by namkyu           ###   ########.fr       */
+/*   Updated: 2021/02/27 12:37:21 by namkyu           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <stdarg.h>
-# include "libft.h"
+# include "../libft/libft.h"
 
 # define RIGHT_ALIGN 1
 # define LEFT_ALIGN -1
